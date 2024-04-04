@@ -1,0 +1,6 @@
+2|pulsar|honda|mysore|1500$
+4|duke 200|KTM|Mysuru|50000$
+5|KTM RC 200|DUKE |Bangalore|250000$
+7|Dio|Abc|Mandya|3000$
+5|Vespa|TVS|Vijay Nagar|3500$
+6|Scooty|QWE|gokulam|2500$
